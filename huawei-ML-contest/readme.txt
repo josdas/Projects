@@ -1,7 +1,13 @@
-train.cpp -- код, обучающий коэффициенты. Чтобы поменять тест, нужно изменить число в main.
+train.cpp -- РєРѕРґ, РѕР±СѓС‡Р°СЋС‰РёР№ РєРѕСЌС„С„РёС†РёРµРЅС‚С‹. Р§С‚РѕР±С‹ РїРѕРјРµРЅСЏС‚СЊ С‚РµСЃС‚, РЅСѓР¶РЅРѕ РёР·РјРµРЅРёС‚СЊ С‡РёСЃР»Рѕ РІ main.
 
-application.cpp -- код, генерирующий ответ для теста на основе имеющихся коэффициентов. 
+application.cpp -- РєРѕРґ, РіРµРЅРµСЂРёСЂСѓСЋС‰РёР№ РѕС‚РІРµС‚ РґР»СЏ С‚РµСЃС‚Р° РЅР° РѕСЃРЅРѕРІРµ РёРјРµСЋС‰РёС…СЃСЏ РєРѕСЌС„С„РёС†РёРµРЅС‚РѕРІ. 
 
-coefficients_i.dat -- коэффициенты для i-ого теста. 
+coefficients_i.dat -- РєРѕСЌС„С„РёС†РёРµРЅС‚С‹ РґР»СЏ i-РѕРіРѕ С‚РµСЃС‚Р°. 
 
-model_i_1_test.dat -- ответ для i-ого теста. 
+model_i_1_test.dat -- РѕС‚РІРµС‚ РґР»СЏ i-РѕРіРѕ С‚РµСЃС‚Р°. 
+
+https://github.com/josdas/Project/blob/master/huawei-ML-contest/function-x-1.jpg
+
+https://github.com/josdas/Project/blob/master/huawei-ML-contest/function-x-2.jpg
+
+https://github.com/josdas/Project/blob/master/huawei-ML-contest/function-x-3.jpg
