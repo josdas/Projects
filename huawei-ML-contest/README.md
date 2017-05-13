@@ -7,7 +7,9 @@ coefficients_i.dat -- коэффициенты для i-ого теста.
 model_i_1_test.dat -- ответ для i-ого теста. 
 
 Результаты прогнозирования: 
+
 Красные точки -- ответ на тест
+
 Синие точки -- результат прогнозирования
 
 ![result 1](https://github.com/josdas/Project/blob/master/huawei-ML-contest/function-x-1.jpg)
