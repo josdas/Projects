@@ -1,4 +1,4 @@
-My course work in physics.
+My the first course work in physics.
 
 Real time calculations of the position of the planets.
 
